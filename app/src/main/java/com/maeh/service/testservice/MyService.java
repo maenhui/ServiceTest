@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2018. Parrot Faurecia Automotive S.A.S. All rights reserved.
- */
-
 package com.maeh.service.testservice;
 
 import android.app.Service;
